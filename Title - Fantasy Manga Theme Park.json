@@ -4,5 +4,16 @@
   "artist": "",
   "author": "",
   "cover": "https://theblank.net/wp-content/uploads/2024/01/imageoo.png",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "chapter 0",
+      "volume": "",
+      "last_updated": "1705343023",
+      "groups": {
+        "": [
+          "https://theblank.net/wp-content/uploads/2024/01/imageoo.png"
+        ]
+      }
+    }
+  }
 }
