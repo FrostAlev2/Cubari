@@ -4,5 +4,72 @@
   "artist": "Wealthy",
   "author": "EOLKKI,Yuwol",
   "cover": "https://cdn.discordapp.com/attachments/1093274316948377682/1202115660545798225/resume.png?ex=65cc4873&is=65b9d373&hm=5c977ff4fb26858ac2fc836e1222bc456f719d69431839d1126864293706473a&",
-  "chapters": {}
+  "chapters": {
+    "01": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "1706677335",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/01.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/02.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/03.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/04.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/05.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/06.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/07.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/08.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/09.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/10.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/11.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/12.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/13.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/14.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/15.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/16.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/17.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/18.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/19.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/20.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/21.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/22.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/81/23.jpg"
+        ]
+      }
+    },
+    "02": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1706677399",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/01.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/02.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/03.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/04.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/05.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/06.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/07.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/08.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/09.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/10.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/11.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/12.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/13.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/14.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/15.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/16.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/17.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/18.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/19.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/20.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/21.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/22.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/23.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/24.jpg",
+          "https://raw.githubusercontent.com/FrostAlev2/the-blank/master/series/Resume/82/25.jpg"
+        ]
+      }
+    }
+  }
 }
